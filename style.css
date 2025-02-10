@@ -67,6 +67,9 @@ body {
 #restart:hover {
     background-color: #45a049; /* Slightly darker shade on hover */
 }
+.dark-mode {
+    background-color: black !important;
+}
 
 
 /* Original CSS stays unchanged */
